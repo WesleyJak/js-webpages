@@ -1,0 +1,1 @@
+console.log("This is coming from the script.js file");
